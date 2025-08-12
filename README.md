@@ -30,7 +30,6 @@ Previously, I contributed to GIS research and teaching as a research and teachin
   <a href="https://www.qgis.org/en/site/" target="_blank"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://img.shields.io/badge/ArcGIS_Pro-007AC2?style=for-the-badge" /></a>
   <a href="https://earthengine.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" /></a>
-  <a href="https://www.l3harrisgeospatial.com/Software-Technology/ENVI" target="_blank"><img src="https://img.shields.io/badge/ENVI-D64222?style=for-the-badge" /></a>
 </p>
 
 ### Other Tools & Platforms
@@ -38,7 +37,6 @@ Previously, I contributed to GIS research and teaching as a research and teachin
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,7 +44,6 @@ Previously, I contributed to GIS research and teaching as a research and teachin
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedShamroukh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohamed's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShamroukh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Mohamed's Top Languages" />
 </p>
 
