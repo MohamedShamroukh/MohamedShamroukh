@@ -1,65 +1,324 @@
-# 👋 Hi, I'm Mohamed Shamroukh  
-*Doctoral researcher specialising in geospatial intelligence, urban planning, and data-driven modelling for sustainable cities.*
 
-### **Doctoral Researcher | Geospatial Intelligence | Urban Planning | GIS | GeoAI**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ================== SEO Meta Tags ================== -->
+      <title>Mohamed Shamroukh | Geospatial Intelligence & Urban Planning Researcher</title>
+    <meta name="description" content="Personal portfolio of Mohamed Shamroukh, a doctoral researcher at Loughborough University specializing in Geospatial Intelligence, GIS, GeoAI, and data-driven urban planning for sustainable cities.">
+    <meta name="keywords" content="Mohamed Shamroukh, Geospatial Intelligence, GIS, GeoAI, Remote Sensing, Urban Planning, Loughborough University, PhD Researcher, Data Science, Python, Sustainable Cities">
+    <meta name="author" content="Mohamed Shamroukh">
+    
+    <!-- ACTION REQUIRED: Replace 'https://www.your-domain.com/' with your actual website URL -->
+    <link rel="canonical" href="https://www.your-domain.com/">
 
-I am a doctoral researcher at **The Impact Hub, School of Architecture, Building and Civil Engineering, Loughborough University**. My PhD research focuses on **data-driven modelling**, **geospatial analysis**, and **machine learning** to support **pedestrian-friendly urban planning** and **sustainable city development**.
+    <!-- ================== Open Graph / Facebook / LinkedIn Meta Tags ================== -->
+    <!-- These control how your site looks when shared on social media -->
+    <meta property="og:title" content="Mohamed Shamroukh | Geospatial Intelligence & Urban Planning Researcher">
+    <meta property="og:description" content="Doctoral researcher specializing in GIS, GeoAI, and data-driven urban planning.">
+    <meta property="og:type" content="website">
+    <!-- ACTION REQUIRED: Replace with a URL to a professional photo of yourself (e.g., from LinkedIn or GitHub) -->
+    <meta property="og:image" content="https://www.your-domain.com/profile-photo.jpg">
+    <meta property="og:url" content="https://www.your-domain.com/">
 
-With over seven years of experience in **geospatial data science**, I specialise in combining **GIS**, **remote sensing**, and **geospatial artificial intelligence (GeoAI)** to address urban challenges. I have strong expertise in spatial data integration, pedestrian movement analysis, urban analytics, and spatial modelling. My work encompasses multi-source data processing, sensor data calibration, and advanced machine learning applications within urban environments.
+    <!-- ================== Twitter Card Meta Tags ================== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mohamed Shamroukh | Geospatial Intelligence Researcher">
+    <meta name="twitter:description" content="Doctoral researcher specializing in GIS, GeoAI, and data-driven urban planning.">
+    <!-- ACTION REQUIRED: Replace with the same image URL as above -->
+    <meta name="twitter:image" content="https://www.your-domain.com/profile-photo.jpg">
 
-Previously, I contributed to GIS research and teaching as a research and teaching assistant at **South Valley University, Egypt**, focusing on urban studies and spatial data analysis.
+    <!-- ================== Structured Data (Schema.org for Google) ================== -->
+    <!-- This tells Google exactly who you are in a machine-readable format -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Mohamed Shamroukh",
+      "url": "https://www.your-domain.com/",
+      "jobTitle": "Doctoral Researcher",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Loughborough University"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "South Valley University"
+      },
+      "knowsAbout": ["Geospatial Intelligence", "GIS", "Remote Sensing", "Urban Planning", "GeoAI", "Python", "Data Science"],
+      "sameAs": [
+        "https://www.linkedin.com/in/mohamed-shamroukh-348083126/",
+        "https://github.com/MohamedShamroukh",
+        "https://x.com/mohamed_shm3",
+        "https://scholar.google.co.uk/citations?user=BUM-R3QAAAAJ&hl=en",
+        "https://orcid.org/0000-0002-1005-2600",
+        "https://www.researchgate.net/profile/Mohamed-Shamroukh",
+        "https://www.lboro.ac.uk/departments/abce/staff/mohamed-mahmoud/",
+        "https://loop.frontiersin.org/people/2895153/overview",
+        "https://www.webofscience.com/wos/author/record/JCN-7329-2023",
+        "https://gis.stackexchange.com/users/162813/mohamed-shamroukh"
+      ]
+    }
+    </script>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* CSS styles remain the same as before */
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --text-color: #333;
+            --light-bg: #f8f9fa;
+            --container-width: 1000px;
+        }
 
----
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-## 🛠️ Skills & Tools
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--light-bg);
+        }
 
-### Programming & Data Science
-<p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-  <a href="https://geopandas.org/" target="_blank"><img src="https://img.shields.io/badge/GeoPandas-139455?style=for-the-badge" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://postgis.net/" target="_blank"><img src="https://img.shields.io/badge/PostGIS-E36329?style=for-the-badge" /></a>
-</p>
+        .container {
+            max-width: var(--container-width);
+            margin: 0 auto;
+            padding: 0 20px;
+        }
 
-### GIS & Remote Sensing
-<p>
-  <a href="https://www.qgis.org/en/site/" target="_blank"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://img.shields.io/badge/ArcGIS_Pro-007AC2?style=for-the-badge" /></a>
-  <a href="https://earthengine.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" /></a>
-</p>
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+            color: white;
+            padding: 4rem 0;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: 1px;
+        }
 
-### Other Tools & Platforms
-<p>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+        .title {
+            font-size: 1.5rem;
+            opacity: 0.9;
+            font-weight: 300;
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
----
+        section {
+            background: white;
+            border-radius: 10px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 15px rgba(0, 0, 0, 0.05);
+        }
 
-## 📊 My GitHub Stats
+        h2 {
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 0.5rem;
+        }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShamroukh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Mohamed's Top Languages" />
-</p>
+        h3 {
+            color: var(--primary-color);
+            margin: 2rem 0 1rem;
+            font-size: 1.5rem;
+        }
 
----
+        .about-text {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #555;
+        }
+        
+        .badge-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+        }
 
-## 📫 Connect with Me
+        .contact-list {
+            list-style: none;
+            margin-bottom: 2rem;
+        }
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-shamroukh-348083126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/mohamed_shm3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://scholar.google.co.uk/citations?user=BUM-R3QAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://orcid.org/0000-0002-1005-2600" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://www.lboro.ac.uk/departments/abce/staff/mohamed-mahmoud/" target="_blank"><img src="https://img.shields.io/badge/Loughborough_Uni-C81F7A?style=for-the-badge&logo=loughborough-university&logoColor=white" alt="Staff Profile"></a>
-  <a href="https://gis.stackexchange.com/users/162813/mohamed-shamroukh" target="_blank"><img src="https://img.shields.io/badge/GIS_Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="GIS Stack Exchange"></a>
-</p>
+        .contact-list li {
+            margin-bottom: 1.2rem;
+            display: flex;
+            align-items: center;
+            font-size: 1.1rem;
+        }
 
----
+        .contact-list i {
+            width: 25px;
+            color: var(--accent-color);
+            margin-right: 15px;
+            text-align: center;
+        }
+        
+        ul.research-interests {
+            list-style-type: '✔ ';
+            padding-left: 20px;
+            font-size: 1.1rem;
+            color: #555;
+        }
 
-⭐ *I am always open to research collaborations and discussions related to geospatial analytics, urban planning, and sustainable city development. Feel free to reach out!*  
+        ul.research-interests li {
+            margin-bottom: 0.5rem;
+            padding-left: 10px;
+        }
+
+        .github-stats-img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1.5rem auto 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 2rem;
+            color: #555;
+            font-style: italic;
+        }
+
+        a {
+            color: var(--accent-color);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+            .title {
+                font-size: 1.2rem;
+            }
+            section {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Mohamed Shamroukh</h1>
+            <p class="title">Doctoral researcher specialising in geospatial intelligence, urban planning, and data-driven modelling for sustainable cities.</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>👋 About Me</h2>
+            <p class="about-text">
+                Mohamed Shamroukh is a doctoral researcher at The Impact Hub, School of Architecture, Building and Civil Engineering, Loughborough University. He specialises in Geospatial Intelligence, GIS, Remote Sensing, Urban Planning, and GeoAI (Geospatial Artificial Intelligence). His PhD research focuses on data-driven modelling, geospatial analysis, and machine learning for pedestrian-friendly urban planning and sustainable city development. Mohamed has extensive expertise in geospatial data science, urban analytics, spatial modelling, Python programming, and geospatial databases. He has conducted research and teaching in GIS, remote sensing, and urban studies, including experience as a research and teaching assistant at South Valley University, Egypt. His projects include WiFi-based pedestrian monitoring, point of interest (POI) analysis, street network, and geospatial data integration.
+            </p>
+        </section>
+
+        <!-- New Section for Keywords -->
+        <section>
+            <h2>🔬 Key Research Interests</h2>
+            <ul class="research-interests">
+                <li>Data-Driven Urban Modelling & Geospatial Analysis</li>
+                <li>Geospatial Artificial Intelligence (GeoAI) & Machine Learning</li>
+                <li>Pedestrian-Friendly Urban Planning</li>
+                <li>Sustainable City Development</li>
+                <li>Urban Analytics & Geospatial Data Science</li>
+                <li>GIS & Remote Sensing Applications</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>🛠️ Skills & Tools</h2>
+            
+            <h3>Programming & Data Science</h3>
+            <div class="badge-container">
+                <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
+                <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"></a>
+                <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"></a>
+                <a href="https://geopandas.org/" target="_blank"><img src="https://img.shields.io/badge/GeoPandas-139455?style=for-the-badge" alt="GeoPandas Badge"></a>
+                <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"></a>
+                <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
+                <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"></a>
+                <a href="https://postgis.net/" target="_blank"><img src="https://img.shields.io/badge/PostGIS-E36329?style=for-the-badge" alt="PostGIS Badge"></a>
+            </div>
+
+            <h3>GIS & Remote Sensing</h3>
+            <div class="badge-container">
+                <a href="https://www.qgis.org/en/site/" target="_blank"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS Badge"></a>
+                <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://img.shields.io/badge/ArcGIS_Pro-007AC2?style=for-the-badge" alt="ArcGIS Pro Badge"></a>
+                <a href="https://earthengine.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" alt="Google Earth Engine Badge"></a>
+            </div>
+
+            <h3>Other Tools & Platforms</h3>
+            <div class="badge-container">
+                <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"></a>
+                <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"></a>
+                <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+            </div>
+        </section>
+
+        <section>
+            <h2>📊 GitHub Stats</h2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShamroukh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Mohamed Shamroukh's Top Languages on GitHub" class="github-stats-img" />
+        </section>
+
+        <section>
+            <h2>📫 Contact & Profiles</h2>
+            <ul class="contact-list">
+                <li>
+                    <i class="fas fa-envelope"></i>
+                    <span>
+                        <a href="mailto:m.shamroukh@lboro.ac.uk">m.shamroukh@lboro.ac.uk</a>
+                    </span>
+                </li>
+                 <li>
+                    <i class="fas fa-map-marker-alt"></i>
+                    <span>Loughborough University, UK</span>
+                </li>
+            </ul>
+
+            <div class="badge-container">
+                <a href="https://www.lboro.ac.uk/departments/abce/staff/mohamed-mahmoud/" target="_blank"><img src="https://img.shields.io/badge/Loughborough_Uni-C81F7A?style=for-the-badge&logo=loughborough-university&logoColor=white" alt="Loughborough University Staff Profile"></a>
+                <a href="https://www.linkedin.com/in/mohamed-shamroukh-348083126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
+                <a href="https://scholar.google.co.uk/citations?user=BUM-R3QAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Profile"></a>
+                <a href="https://x.com/mohamed_shm3" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Profile"></a>
+                <a href="https://github.com/MohamedShamroukh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+                <a href="https://orcid.org/0000-0002-1005-2600" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile"></a>
+                <a href="https://www.researchgate.net/profile/Mohamed-Shamroukh" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Profile"></a>
+                <a href="https://www.webofscience.com/wos/author/record/JCN-7329-2023" target="_blank"><img src="https://img.shields.io/badge/Web_of_Science-9F1C20?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science Profile"></a>
+                <a href="https://loop.frontiersin.org/people/2895153/overview" target="_blank"><img src="https://img.shields.io/badge/Loop-00A6E3?style=for-the-badge&logo=frontiers&logoColor=white" alt="Frontiers Loop Profile"></a>
+                <a href="https://gis.stackexchange.com/users/162813/mohamed-shamroukh" target="_blank"><img src="https://img.shields.io/badge/GIS_Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white" alt="GIS Stack Exchange Profile"></a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>⭐ I am always open to research collaborations and discussions related to geospatial analytics, urban planning, and sustainable city development. Feel free to reach out!</p>
+        </div>
+    </footer>
+</body>
+</html>
