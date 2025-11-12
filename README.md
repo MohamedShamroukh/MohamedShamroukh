@@ -14,8 +14,8 @@ My PhD research focuses on developing data-driven models and using advanced geos
 ## 🔬 Key Research Interests
 - Geospatial Artificial Intelligence (GeoAI) & Machine learning
 - Data-Driven Urban Modelling & Geospatial Analysis
-- Pedestrian-Friendly Urban Planning & Sustainable Cities
-- Smart cities
+- Pedestrian-Friendly Urban Planning 
+- Smart & Sustainable Cities
 - Urban Analytics & Geospatial Data Science
 - GIS & Remote Sensing Applications
 
